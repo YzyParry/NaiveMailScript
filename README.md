@@ -34,14 +34,14 @@ password = '' # 校园邮箱密码
 
 以网易163邮箱举例，从设置页面进入SMTP服务器设置
 
-<img src="C:\Users\Parry\Desktop\工作区\geekpie\NaiveMailScript\guide1.png" style="zoom:50%;" />
+<img src="https://github.com/YzyParry/NaiveMailScript/blob/master/img/guide1.png" style="zoom:50%;" />
 
 在设置中开启 POP3/SMTP 服务，这个页面一般会给出SMTP服务器地址，填写在`emai_server`中即可
 
-<img src="C:\Users\Parry\Desktop\工作区\geekpie\NaiveMailScript\guide2.png" style="zoom:50%;" />
+<img src="https://github.com/YzyParry/NaiveMailScript/blob/master/img/guide2.png" style="zoom:50%;" />
 
 可能需要手机发送短信进行验证
 
-<img src="C:\Users\Parry\Desktop\工作区\geekpie\NaiveMailScript\guide3.png" style="zoom:50%;" />
+<img src="https://github.com/YzyParry/NaiveMailScript/blob/master/img/guide3.png" style="zoom:50%;" />
 
 随即将获得的授权码填写在 `emai_passwd` 即可
